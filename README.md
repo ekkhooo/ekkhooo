@@ -1,7 +1,23 @@
-yo
-==========
+ yo
+===========
+## hi im emil  
+### *emil#1955*  
 
-so basically im just vibin
+<br>
+
+Right now, I have a eeeh understanding of:  
+
+<ul>
+    <li>Python</li>
+</ul>  
+
+Languages I plan on getting better at:  
+
+<ul>
+    <li>HTML, CSS and Js<br></li>
+</ul>  
+
+*(There's others too but these come first)*  
 
 
 <!---
